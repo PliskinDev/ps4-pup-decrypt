@@ -10,3 +10,5 @@ This will output a number of files (depending if a normal or a recovery update):
     /mnt/usb0/PS4UPDATE2.PUP.dec
     /mnt/usb0/PS4UPDATE3.PUP.dec
     /mnt/usb0/PS4UPDATE4.PUP.dec
+    
+    These decrypted updates can then be unpacked using https://github.com/mizdx/ps4-pup-unpack/
